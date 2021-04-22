@@ -1,7 +1,7 @@
 //6.	Realizar un programa que lea N números, calcule y escriba la suma de los pares y el producto de los impares.
 let i;
 let Sum = 0;
-let Mul = 0;
+let Mul = 1;
 let res = 0;
 let num1;
 
